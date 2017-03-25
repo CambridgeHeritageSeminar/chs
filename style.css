@@ -12,6 +12,7 @@ p
 .navbar-fixed-left {
   width: 140px;
   position: fixed;
+  z-index: 999;
   border-radius: 0;
   height: 100%;
 }
@@ -40,3 +41,4 @@ p
   color: lightgrey;
  
 }
+
